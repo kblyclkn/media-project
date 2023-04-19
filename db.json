@@ -1,6 +1,26 @@
 {
-  "users": [{ "id": 1, "name": "Myra" }],
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Alison Hayes Jr.",
+      "id": 2
+    },
+    {
+      "name": "Jo Pagac",
+      "id": 3
+    },
+    {
+      "name": "Maryann Dicki",
+      "id": 4
+    },
+    {
+      "name": "Ms. Randall Robel",
+      "id": 5
+    }
+  ],
   "albums": [],
   "photos": []
 }
-
